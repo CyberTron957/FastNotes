@@ -1,6 +1,6 @@
-# FasNotes - Simple Note-Taking App
+# FastNotes - Simple Note-Taking App
 
-Fas is a minimalist, web-based note-taking application with user authentication and automatic saving features. Built with Node.js, Express, and SQLite, it provides a clean, full-screen writing experience similar to traditional desktop notepads.
+Fast is a minimalist, web-based note-taking application with user authentication and automatic saving features. Built with Node.js, Express, and SQLite, it provides a clean, full-screen writing experience similar to traditional desktop notepads.
 <img width="1405" alt="Screenshot 2025-03-09 at 3 29 56 PM" src="https://github.com/user-attachments/assets/4e213e3c-acfe-46d1-9a68-dc7e9e704ded" />
 
 ## Features
@@ -28,7 +28,7 @@ Fas is a minimalist, web-based note-taking application with user authentication 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/CyberTron957/FasNotes/
+git clone https://github.com/CyberTron957/FastNotes/
 cd notepad-app
 ```
 2. Install dependencies:
