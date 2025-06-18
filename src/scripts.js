@@ -1018,7 +1018,7 @@ function scheduleNoteSave(saveStatusDot) { // Pass the dot element
     // Schedule new save
     saveTimeout = setTimeout(() => {
         saveCurrentNote();
-    }, 1500); // Increased delay to 1.5 seconds (from 0.5)
+    }, 200); // Increased delay to 1.5 seconds (from 0.5)
 }
 
 // --- Scroll Position Persistence ---
